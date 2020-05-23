@@ -8,9 +8,9 @@ collection also points to some useful tools in developing Python code.
 
 To run these files you'll need to have Python and Jupyter installed.
 
-You can get both of these with the Anaconda Python distribution: https://docs.anaconda.com/anaconda/install/
-It is by no means the only source, but it does make somethings conveninet. 
+You can get both of these with the Anaconda Python distribution: https://docs.anaconda.com/anaconda/install/.
+It is by no means the only source, but it does conveniently install them both together. 
 
-Then read the Getting Stared page: https://docs.anaconda.com/anaconda/user-guide/getting-started/
+Once you've done the above, you can read the Getting Stared page: https://docs.anaconda.com/anaconda/user-guide/getting-started/
 
-After those you should be able to run the code in these files.
+After the steps above you should be able to run the code in these files.
